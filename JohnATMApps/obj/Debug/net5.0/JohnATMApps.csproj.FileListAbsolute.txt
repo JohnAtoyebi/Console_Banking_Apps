@@ -1,0 +1,16 @@
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\bin\Debug\net5.0\JohnATMApps.exe
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\bin\Debug\net5.0\JohnATMApps.deps.json
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\bin\Debug\net5.0\JohnATMApps.runtimeconfig.json
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\bin\Debug\net5.0\JohnATMApps.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\bin\Debug\net5.0\JohnATMApps.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\bin\Debug\net5.0\JohnATMApps.pdb
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\obj\Debug\net5.0\JohnATMApps.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\obj\Debug\net5.0\JohnATMApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\obj\Debug\net5.0\JohnATMApps.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\obj\Debug\net5.0\JohnATMApps.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\obj\Debug\net5.0\JohnATMApps.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\obj\Debug\net5.0\JohnATMApps.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\obj\Debug\net5.0\refint\JohnATMApps.dll
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\obj\Debug\net5.0\JohnATMApps.pdb
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\obj\Debug\net5.0\JohnATMApps.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\SQUAD 12 DOTNET MATERIALS\WEEK THREE\JOHN_ATM_APPS\JohnATMApps\JohnATMApps\obj\Debug\net5.0\ref\JohnATMApps.dll
